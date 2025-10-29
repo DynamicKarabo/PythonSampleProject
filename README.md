@@ -1,3 +1,3 @@
 # PythonSampleProject
 
-A stupid simple hello world Python app for diversity.
+A simple hello world Python app for diversity.
